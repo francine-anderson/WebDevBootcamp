@@ -1,0 +1,81 @@
+body {
+	background: #7e13db
+}
+div {
+	background: #240056
+}
+
+h1 {
+	color: #ae60f2;
+	border-color: #4997D0;
+	border-style: solid;
+    border-width: 5px;
+}
+h2 {
+	color: #ae60f2;
+	border-color: #4997D0;
+	border-style: solid;
+    border-width: 5px;
+}
+
+
+#1f1f26
+
+#9ea0ef
+
+#240056
+
+* {
+	border: solid 5px black;
+}
+
+li:nth-of-type(odd) {
+	background:purple;
+	color:lightblue;
+}
+
+
+li:nth-of-type(even) {
+	background:lightblue;
+	color:purple;
+}
+
+
+ul {
+	border:solid 5px darkblue;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+p {
+	line-height: 1.5
+}
+
+h1 {
+	font-family: 'Sedgwick Ave'
+}
+
+h2 {
+	font-family: 'Sedgwick Ave'
+}
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+</style>
+/*
+body {
+	background: url("https://68.media.tumblr.com/22884a9acb1bd18d7ee97c13e04986f1/tumblr_opp561LtrT1vrv4zmo4_500.jpg");
+ 	background-repeat: no-repeat;
+	background-size: cover;
+}
+*/

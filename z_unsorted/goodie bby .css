@@ -1,0 +1,19 @@
+/** {
+	border: 2px solid purple
+}
+*/
+p a {
+	color: blue;
+}
+
+tbody + td {
+	color: purple
+}
+
+/*attribute {
+
+}
+
+nth of type {
+}		
+*/
